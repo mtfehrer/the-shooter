@@ -1,0 +1,5 @@
+{
+	"1":{"Runner":3, "Shooter":3, "Giant":0, "Heavy":0},
+	"2":{"Runner":6, "Shooter":6, "Giant":1, "Heavy":0},
+	"3":{"Runner":12, "Shooter":12, "Giant":1, "Heavy":1}
+}
